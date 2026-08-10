@@ -1,6 +1,6 @@
 {
   "name": "@ecarrizo2/wardenauthz-nestjs",
-  "version": "0.2.0",
+  "version": "0.0.1",
   "description": "NestJS module for WardenAuthz",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
