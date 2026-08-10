@@ -1,3 +1,16 @@
 node_modules/
 dist/
 *.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Coverage
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
