@@ -1,5 +1,7 @@
 # WardenAuthz NestJS Module
 
+[![CI](https://github.com/ecarrizo2/wardenauthz-nestjs/actions/workflows/ci.yml/badge.svg)](https://github.com/ecarrizo2/wardenauthz-nestjs/actions/workflows/ci.yml) [![npm](https://img.shields.io/npm/v/@ecarrizo2/wardenauthz-nestjs)](https://www.npmjs.com/package/@ecarrizo2/wardenauthz-nestjs) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 NestJS module for [WardenAuthz](https://wardenauthz.com) — injectable authorization in your NestJS application. Provides declarative permission checking via `@RequiresPermission` decorator and `PermissionGuard`, plus full access to the underlying TypeScript SDK client for imperative checks.
 
 ## Installation
