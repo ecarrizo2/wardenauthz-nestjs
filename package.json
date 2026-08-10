@@ -58,5 +58,8 @@
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
   },
-  "license": "SEE LICENSE IN LICENSE"
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
