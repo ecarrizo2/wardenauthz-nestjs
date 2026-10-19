@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in WardenAuthz, please report it
+If you discover a security vulnerability in WardenAuth, please report it
 privately. **Do not open a public issue.**
 
 Email: security@wardenauthz.com

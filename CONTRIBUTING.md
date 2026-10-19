@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for contributing to WardenAuthz! Here's how to get started.
+Thanks for contributing to WardenAuth! Here's how to get started.
 
 ## Setup
 
